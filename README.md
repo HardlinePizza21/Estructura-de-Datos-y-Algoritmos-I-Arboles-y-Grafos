@@ -44,4 +44,8 @@ Aquí tienes una lista de 5 comandos explicados:
 
 7. `rm [nombre]`: Elimina el archivo o directorio con este `[nombre]` .
 
+8. `cls`: Limpia la interface de operaciones antiguas.
+
+9. `exit`: Cierra la interface.
+
 ¡Espero que esta lista de comandos te sea útil!

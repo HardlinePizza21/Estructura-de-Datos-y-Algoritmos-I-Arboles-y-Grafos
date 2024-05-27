@@ -57,7 +57,7 @@ class terminal:
             return
         
         if comando == "help":
-            self.commandOutPut("Comandos disponibles: dir, mkdir, cd, actual, addfile, rm")
+            self.commandOutPut("Comandos disponibles: dir, mkdir, cd, actual, addfile, rm, cls, exit")
             return
 
         if comando == "dir":
